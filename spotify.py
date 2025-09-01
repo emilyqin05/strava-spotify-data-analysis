@@ -35,7 +35,7 @@ cursor.execute('''
 ''')
 
 headers = {
-    "Authorization": "Bearer BQAwQQcylErsQCeUC-lGn7lGOQ96b_cSit4mC7U60Kb5gjm96OBxTbjfccyDvJdw3FPkj3vhq96VTyf0WDWQ4PzsYfBbGOoSQD_ZZx9uxH6CV8nBBc1uunIzMr7BOaNSPCm_6mRpDLlw4rdXzUpMUrLnVtiyaRGrl5DcEVZh03zIXkllXM1a8ZzdVD64--cgzhfa1yi2bhx89FwXrRMNpGB4zYPO3bCDzGa4aiFD6tGi7rEyri6CKA"
+    "Authorization": "Bearer "
 }
 
 while True:
